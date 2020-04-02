@@ -1,0 +1,12 @@
+456
+123
+123
+456
+789
+
+Compile values:
+PC: 16
+sp: -1
+rstack: empty
+fpsp: -1
+fpstack: empty

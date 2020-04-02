@@ -1,0 +1,15 @@
+0
+1
+0
+1
+0
+1
+0
+0
+
+Compile values:
+PC: 96
+sp: -1
+rstack: empty
+fpsp: -1
+fpstack: empty

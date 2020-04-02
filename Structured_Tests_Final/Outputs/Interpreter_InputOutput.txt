@@ -1,0 +1,18 @@
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Compile values:
+PC: 16
+sp: -1
+rstack: empty
+fpsp: -1
+fpstack: empty

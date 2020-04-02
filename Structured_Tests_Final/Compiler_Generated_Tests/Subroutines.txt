@@ -1,0 +1,14 @@
+subr 0 main
+call 0 first
+printi 1
+ret
+subr 0 first
+call 0 second
+printi 2
+ret
+subr 0 second
+printi 3
+pushi 1
+pushi 2
+pushi 3
+ret

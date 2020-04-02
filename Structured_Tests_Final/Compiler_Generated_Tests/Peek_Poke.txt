@@ -1,0 +1,24 @@
+subr 0 main
+decl a int
+decl b int
+pushi 123
+pushi 456
+popv a
+popv b
+printv a
+printv b
+call 2 a b test
+ret
+subr 2 test
+decl c int
+decl d int
+peek c 1
+printv c
+peek c 0
+printv c
+pushi 789
+popv d
+poke 1 d
+peek c 1
+printv c
+ret

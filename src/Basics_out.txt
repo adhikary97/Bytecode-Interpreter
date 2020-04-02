@@ -1,0 +1,16 @@
+56
+34
+12
+1234
+4321
+16
+2560
+16.000000
+123.449997
+
+Compile values:
+PC: 41
+sp: -1
+rstack: empty
+fpsp: -1
+fpstack: empty

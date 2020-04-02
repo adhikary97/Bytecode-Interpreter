@@ -1,0 +1,26 @@
+subr 0 main
+decl a int
+decl b int
+pushi 0
+popv a
+pushi 1
+popv b
+printv a
+printv b
+call 2 a b addtest
+ret
+subr 2 addtest
+decl c int
+pushi 1
+pushi 1
+pushi 3
+pushi 4
+pushi 5
+pushi 6
+pushi 7
+popm 5
+cmpe
+popv c
+printv c
+ret
+
